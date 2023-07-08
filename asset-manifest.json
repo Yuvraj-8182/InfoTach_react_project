@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Yuvraj-8182/InfoTach_react_project/static/css/main.870e6892.css",
+    "main.js": "/Yuvraj-8182/InfoTach_react_project/static/js/main.71b23cfa.js",
+    "static/media/1.png": "/Yuvraj-8182/InfoTach_react_project/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/Yuvraj-8182/InfoTach_react_project/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/Yuvraj-8182/InfoTach_react_project/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/Yuvraj-8182/InfoTach_react_project/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/Yuvraj-8182/InfoTach_react_project/index.html",
+    "main.870e6892.css.map": "/Yuvraj-8182/InfoTach_react_project/static/css/main.870e6892.css.map",
+    "main.71b23cfa.js.map": "/Yuvraj-8182/InfoTach_react_project/static/js/main.71b23cfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870e6892.css",
+    "static/js/main.71b23cfa.js"
+  ]
+}
